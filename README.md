@@ -1,7 +1,7 @@
-## Martin-et-al.-submitted
-Submitted to Genome Biology and Evolution March 2025
+## Martin et al. 2026. Genome Biology and Evolution
 
-Data for Martin et al, located in this repository at [katherinermartin/Martin-et-al.-submitted/data](https://github.com/katherinermartin/Martin-et-al.-submitted/tree/main/data) and all subdirectories therein, with the exception of the raw sequence read data (see below)
+
+Data accompanying this manuscript is located in this repository at [katherinermartin/Martin-et-al.-submitted/data](https://github.com/katherinermartin/Martin-et-al.-submitted/tree/main/data) and all subdirectories therein, with the exception of the raw sequence read data (see below)
 
 * Please refer to [data_script_readme_Martin_et_al_MHC_species_evolution.xlsx](https://github.com/katherinermartin/Martin-et-al.-submitted/blob/main/data_script_readme_Martin_et_al_MHC_species_evolution.xlsx) for full list and description of data files, analysis files, and R scripts that are available in this repository.
 * [data_script_readme_Martin_et_al_MHC_species_evolution.xlsx](https://github.com/katherinermartin/Martin-et-al.-submitted/blob/main/data_script_readme_Martin_et_al_MHC_species_evolution.xlsx) can be organized by either MHC locus (more information below) or by analysis type.
